@@ -4,10 +4,10 @@ I'm a backend software engineer interested in working on projects with a positiv
 
 With my background in business, I appreciate how technical needs integrate with the overall business needs, and take a pragmatic approach to balancing these sometimes opposing forces.  In my current role, I've worn many different hats -- this has helped me learn how to think on my feet and how to pick up new technologies quickly.
 
-### Contact
+### Contact 📬
 The best way to contact me is via [LinkedIn](https://www.linkedin.com/in/ikisler/)
 
-### Technologies
+### Technologies 💻
 Some technologies I'm familiar with include:
 - PHP
 - Symfony
@@ -23,12 +23,12 @@ Some technologies I'm familiar with include:
 - HTML
 - CSS
 
-### Currently Learning
+### Currently Learning 🎓
 Recently, I took a series of courses from Udacity and earned a [C++ Nanodegree!](https://graduation.udacity.com/confirm/K5UWGKEA)  For more information about this program, check out [Udacity's page about it](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213).
 
 <img src="https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/ae7d071c-a877-425a-aa2f-b2a48ba3755c.svg" width="500">
 
-### Projects
+### Projects ☕
 Some major projects I've worked on in the last few years include:
 - Reporting rewrite/redesign
 - Data warehouse
