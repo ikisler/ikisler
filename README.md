@@ -29,7 +29,7 @@ Recently, I took a series of courses from Udacity and earned a [C++ Nanodegree!]
 <img src="https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/ae7d071c-a877-425a-aa2f-b2a48ba3755c.svg" width="500">
 
 ### Projects ☕
-Some major projects I've worked on in the last few years include (click the name of the project for more details):
+Some major projects I've worked on in the last few years include (click the project name for more details):
 
 <details><summary>Reporting rewrite/redesign</summary>
 
