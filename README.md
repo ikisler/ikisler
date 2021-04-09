@@ -39,7 +39,7 @@ In order to meet the future needs of our users, our reporting engine had to chan
 - PHP
 - Symfony framework
 - AWS services
-- NodeJS
+- Node.js
 #### Skills used / improved:
 - Leadership; communicating designs, goals, requirements with other engineers
 - Interpersonal skills; this project involved a lot of push/pull with our product owners to meet user needs in a reasonable timeframe
@@ -69,6 +69,8 @@ Moving to AWS was a big step in our goal to make the engineering side of the com
 - AWS S3
 - DynamoDB
 - Lambda
+- Ansible
+- Packer
 #### Skills used / improved:
 - Organization (significant number of security and stability requirements to keep track of)
 - Refactoring (making legacy code less stateful to allow better scaling)
