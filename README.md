@@ -10,11 +10,10 @@ The best way to contact me is via [LinkedIn](https://www.linkedin.com/in/ikisler
 ### Technologies 💻
 Some technologies I'm familiar with include:
 - PHP
+- Laravel
 - Symfony
 - JavaScript
 - Python
-- Java
-- C++
 - AWS
 - Docker
 - LAMP stack
